@@ -40,7 +40,7 @@
     "@chainsafe/lodestar-beacon-state-transition": "^0.18.0",
     "@chainsafe/lodestar-config": "^0.18.0",
     "@chainsafe/lodestar-params": "^0.18.0",
-    "@chainsafe/lodestar-spec-test-util": "^0.18.0",
+    "@chainsafe/lodestar-spec-test-util": "^0.24.3",
     "@chainsafe/lodestar-types": "^0.18.0",
     "@chainsafe/lodestar-utils": "^0.18.0",
     "@chainsafe/lodestar-validator": "^0.18.0",
